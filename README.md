@@ -6,7 +6,7 @@
 
 
 ## :wrench: Tecnologias utilizadas
-* Tecnologia →  Projeto realizado em Python rodando o jypiter pelo VS Code, utlizando as bibliotecas: Pandas, Plotly, Seaborn e Math.
+* Tecnologia →  Projeto realizado em Python rodando o jupyter pelo VS Code, utlizando as bibliotecas: Pandas, Plotly, Seaborn e Math.
 
 
  ## :dart: Status do projeto
